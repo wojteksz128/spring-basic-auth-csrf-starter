@@ -1,5 +1,5 @@
 # Spring-Basic-Auth-CSRF-Starter
-Simple Spring Boot example exaplined how to protect REST API using Basic Authentication with CSRF. 
+Simple Spring Boot example exaplined how to protect REST API using Basic Authentication with CSRF. Application uses H2 database to store user. 
 
 ### Running from the Command Line
 Before run the service make sure you have installed:
